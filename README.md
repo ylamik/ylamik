@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/mikyla-caras-2750b937b"><img src="https://img.shields.io/badge/LinkedIn-Mikyla%20Caras-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://petalpace.duckdns.org"><img src="https://img.shields.io/badge/Live%20project-Petalpace-E98268?style=flat" alt="Petalpace"></a>
   <a href="https://agila-studios.ejecka06.workers.dev/"><img src="https://img.shields.io/badge/Live%20project-Agila Studios-E98268?style=flat" alt="Agila Studios"></a>
-  <a href="https://mikyla-portfolio-jade.vercel.app/)"><img src="https://img.shields.io/badge/Live%20project-Potrtfolio-E98268?style=flat" alt="Portfolio"></a>
+  <a href="https://mikyla-portfolio-jade.vercel.app/"><img src="https://img.shields.io/badge/Live%20project-Potrtfolio-E98268?style=flat" alt="Portfolio"></a>
 </p>
 
 ---
