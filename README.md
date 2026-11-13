@@ -34,7 +34,7 @@ A calm planner with accounts, deadlines, a calendar, progress tracking, shared t
 A deep learning model that detects manipulated faces in images and highlights the tampered areas, with a web app where users upload an image and see the results. I designed the app's interface in Figma.
 `Python` `PyTorch` `FastAPI` `Next.js` `Figma`
 
-**🎮 Agila Studios: marketing website (team of 3)**
+**🎮 [Agila Studios](https://agila-studios.ejecka06.workers.dev/): marketing website (team of 3)**
 A website for a Minecraft content studio. I designed the About page in Figma, built the landing page, and did QA on the About page.
 `Next.js` `TypeScript` `Tailwind CSS` `Vercel`
 
