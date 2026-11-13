@@ -26,8 +26,8 @@ I like taking an idea from a Figma design all the way to a working, responsive p
 ### Featured projects
 
 **🌸 [Petalpace](https://petalpace.duckdns.org): full-stack planning app**
-A calm planner with accounts, deadlines, a calendar, progress tracking, shared tasks with role-based access, real-time sync and email reminders. Designed in Figma, built and deployed by me on an Ubuntu server with nginx and HTTPS.
-`React` `TypeScript` `Tailwind CSS` `Node.js` `SQLite` `Figma`
+A calm planner with accounts, deadlines, a calendar, progress tracking, shared tasks with role-based access, real-time sync and email reminders. Designed in Figma, built and deployed by me on a Vultr Ubuntu VPS with nginx, HTTPS, daily backups and key-only SSH, using a free DuckDNS domain, covered by 100+ server-side automated tests (Node test runner).
+`React` `TypeScript` `Tailwind CSS` `Node.js` `SQLite` `Figma` `Vultr`
 
 **🔍 VERITAS: deepfake detection system (undergraduate thesis)**
 A deep learning model that detects manipulated faces in images and highlights the tampered areas, with a web app where users upload an image and see the results. I designed the app's interface in Figma.
@@ -48,7 +48,7 @@ An IT ticketing system for a real client with 100+ employees. I was the UI/UX de
 **Languages:** TypeScript · JavaScript · Python · SQL · HTML/CSS
 **Frameworks:** React · Next.js · Node.js · Tailwind CSS
 **Design & QA:** Figma · responsive testing · GitHub Issues
-**Tools:** Git · VS Code · Azure · Vercel · Linux (Ubuntu) · nginx
+**Tools:** Git · VS Code · Vercel · Linux (Ubuntu) · nginx
 
 ---
 
